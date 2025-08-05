@@ -30,34 +30,6 @@ I’m a passionate **Flutter Developer** with over **2 years** of hands-on exper
 
 ---
 
-## 📱 Featured Projects
-
-### 🧾 [Group Expense Splitter](https://github.com/Krishkasodariya/split_wise)
-- Simplifies group expense tracking with real-time balance and reminders.
-
-### 🛒 [Grocenix Store](https://github.com/Krishkasodariya/grocery-app)
-- Smart grocery app with categorized list, history tracking, and offline support.
-
-### 📖 [Bible App](https://github.com/Krishkasodariya/bible)
-- Offers offline Bible versions, verse highlighting, devotionals, and study tools.
-
-### 💬 [WhatsDirect App](https://github.com/Krishkasodariya/whatsDirect)
-- Send WhatsApp messages without saving numbers; includes status and reel downloaders.
-
-### 🌃 [Yavern App](https://github.com/Krishkasodariya)
-- Nightlife discovery app with ticket booking, QR verification, and social features.
-
-### 🧘 [PI Life](https://github.com/Krishkasodariya)
-- Lifestyle app with wellness services, gym, and food ordering.
-
-### 🖋 [Tattoo Artist App](https://github.com/Krishkasodariya)
-- Tattoo industry platform with multi-role support, bookings, competitions, and live streaming.
-
-### ❓ [Questionnaire App](https://github.com/Krishkasodariya)
-- Quiz-based app with real-time scoring and push notifications.
-
----
-
 ## 🎓 Education
 
 **Bachelor of Computer Application (BCA)**  
