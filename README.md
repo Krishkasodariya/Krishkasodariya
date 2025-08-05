@@ -1,54 +1,67 @@
-# 👋 Hi, I'm Krish Kasodariya
+<h1>👋 Hi, I'm Krish Kasodariya</h1>
 
-### 🚀 Flutter Developer | Mobile App Enthusiast | Firebase Expert
-
-I’m a passionate **Flutter Developer** with over **2 years** of hands-on experience building high-performance, cross-platform mobile applications. I specialize in crafting beautiful and scalable apps using **Flutter**, **FlutterFlow**, **Dart**, and **Firebase**.
-
----
-
-## 🔧 Skills & Tools
-
-- **Languages**: Dart
-- **Frameworks**: Flutter, FlutterFlow
-- **Backend & Tools**: Firebase, REST APIs, SQLite
-- **State Management**: GetX, Provider
-- **Others**: Payment Integration, Git, Android Studio, VS Code
+<p >
+  <b>Flutter Developer | Firebase Enthusiast | UI/UX Advocate</b><br>
+  Passionate about building high-performance mobile apps with elegant UI and clean code.
+</p>
 
 ---
 
-## 💼 Work Experience
+## 🚀 About Me
 
-### 🔹 Flutter Developer – Appgenix Infotech LLP  
-*Jun 2024 – Aug 2025 | Surat, India*  
-- Developed and maintained 10+ production-level apps.
-- Focused on responsive UI, smooth UX, and feature-rich functionality using Firebase, REST APIs, and state management.
+I'm a **Flutter Developer** with **2+ years** of experience developing cross-platform mobile apps using **Flutter**, **FlutterFlow**, **Dart**, and **Firebase**.  
+I enjoy solving real-world problems through intuitive and scalable app solutions. My work spans utility tools, e-commerce, lifestyle apps, and social platforms.
 
-### 🔹 Junior Flutter Developer – Athh Technologies LLP  
-*Jun 2023 – Apr 2024 | Surat, India*  
-- Contributed to cross-platform app development and agile workflows.
-- Balanced development work alongside academic studies.
+- 🔭 Currently working at **Appgenix Infotech LLP**, Surat  
+- 💡 I build feature-rich apps with clean architecture and responsive design  
+- 🛠️ Always exploring new frameworks and dev tools  
+- 🎯 Focused on performance, UX, and maintainability  
 
 ---
 
-## 🎓 Education
+## 🛠️ Tech Stack
 
-**Bachelor of Computer Application (BCA)**  
-Sutex Bank College (2021–2024)
+| Category            | Tools / Skills                                           |
+|---------------------|----------------------------------------------------------|
+| **Languages**        | Dart                                                    |
+| **Frameworks**       | Flutter, FlutterFlow                                    |
+| **State Management** | GetX, Provider                                          |
+| **Backend & DB**     | Firebase (Auth, Firestore), SQLite, REST APIs           |
+| **Dev Tools**        | Git, Android Studio, VS Code                            |
+| **Other**            | Stripe Integration, Deep Linking, Push Notifications    |
+
+---
+
+## 💼 Experience
+
+**Flutter Developer**  
+*Appgenix Infotech LLP, Surat | Jun 2024 – Aug 2025*  
+- Developed and deployed production-grade mobile apps  
+- Integrated REST APIs, Firebase services, payment gateways  
+- Collaborated in agile teams and led code reviews  
+
+**Junior Flutter Developer**  
+*Athh Technologies LLP, Surat | Jun 2023 – Apr 2024*  
+- Assisted in UI/UX creation, performance optimization  
+- Handled bug fixing, modular coding, and Git workflows  
 
 ---
 
 ## 📄 Resume
 
-📥 [Download My Resume](https://github.com/Krishkasodariya/Krishkasodariya/blob/main/KrishKasodariya_Resume.pdf)
+📌 [View My Resume (PDF)](https://github.com/Krishkasodariya/Krishkasodariya/blob/main/KrishKasodariya_Resume.pdf)
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Contact Me
 
 - 🌐 Website: [krishkasodariya.com](https://krishkasodariya.com)
 - 📧 Email: [krishkasodariya061@gmail.com](mailto:krishkasodariya061@gmail.com)
-- 📱 Phone: +91 91730 11652
+- 📱 Phone: +91 91730 11652  
+- 🧑‍💼 LinkedIn: *Coming Soon*
 
 ---
 
-> "I believe in solving real-world problems with beautiful, scalable mobile solutions."  
+"I believe in solving real-world problems with beautiful, scalable mobile solutions."
+
+
