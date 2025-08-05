@@ -1,7 +1,9 @@
 <h1>👋 Hi, I'm Krish Kasodariya</h1>
 
+
+### 🚀 Flutter Developer | Flutter Flow Developer
+
 <p >
-  <b>Flutter Developer | Firebase Enthusiast | UI/UX Advocate</b><br>
   Passionate about building high-performance mobile apps with elegant UI and clean code.
 </p>
 
