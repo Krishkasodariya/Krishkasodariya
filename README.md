@@ -56,7 +56,8 @@ Here are a few types of apps I've worked on:
 - 🌐 Website: [krishkasodariya.com](https://krishkasodariya.com)
 - 📧 Email: [krishkasodariya061@gmail.com](mailto:krishkasodariya061@gmail.com)
 - 📱 Phone: +91 91730 11652  
-- 🧑‍💼 LinkedIn: *Coming Soon*
+- 🧑‍💼 LinkedIn: https://linkedin.com/in/krish-kasodariya-9a6189279
+  
 
 ---
 
