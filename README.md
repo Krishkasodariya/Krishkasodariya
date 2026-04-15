@@ -1,6 +1,6 @@
 <h1>👋 Hi, I'm Krish Kasodariya</h1>
 
-### 🚀 Flutter Developer | FlutterFlow Developer | Freelancer
+### 🚀 Mobile & Web Developer | Freelancer
 
 <p>
   Passionate about building high-performance mobile apps with elegant UI and clean code.
@@ -10,10 +10,10 @@
 
 ## 🚀 About Me
 
-I'm a **Flutter Developer** with **2.5+ years** of experience developing cross-platform mobile apps using **Flutter**, **FlutterFlow**, **Dart**, and **Firebase**.  
+I'm a **Mobile & Web Developer** with **4+ years** of experience developing cross-platform mobile apps using **Flutter**, **FlutterFlow**, **Dart**,**React**, **Php** , **Laravel** , **WordPress** and **Firebase**.  
 I enjoy solving real-world problems through intuitive and scalable app solutions. My work spans utility tools, e-commerce, lifestyle apps, and social platforms.
 
-- 💼 Currently working as a **Freelance Flutter Developer**  
+- 💼 Currently working as a **Freelance Developer**  
 - 💡 I build feature-rich apps with clean architecture and responsive design  
 - 🛠️ Always exploring new frameworks and dev tools  
 - 🎯 Focused on performance, UX, and maintainability  
@@ -25,7 +25,7 @@ I enjoy solving real-world problems through intuitive and scalable app solutions
 | Category            | Tools / Skills                                           |
 |---------------------|----------------------------------------------------------|
 | **Languages**        | Dart                                                    |
-| **Frameworks**       | Flutter, FlutterFlow                                    |
+| **Frameworks**       | Flutter, FlutterFlow, PHP, Laravel, React, WordPress    |
 | **State Management** | GetX, Provider                                          |
 | **Backend & DB**     | Firebase (Auth, Firestore), SQLite, REST APIs           |
 | **Dev Tools**        | Git, Android Studio, VS Code                            |
@@ -45,16 +45,14 @@ Here are a few types of apps I've worked on:
 
 ---
 
-## 📄 Resume
 
-📌 [View My Resume (PDF)](https://github.com/Krishkasodariya/Krishkasodariya/blob/main/KrishKasodariya_Resume.pdf)
 
 ---
 
 ## 📫 Contact Me
 
 - 🌐 Website: [krishkasodariya.com](https://krishkasodariya.com)
-- 📧 Email: [krishkasodariya061@gmail.com](mailto:krishkasodariya061@gmail.com)
+- 📧 Email: [hello@krishkasodariya.com](mailto:hello@krishkasodariya.com)
 - 📱 Phone: +91 91730 11652  
 - 🧑‍💼 LinkedIn: https://linkedin.com/in/krish-kasodariya-9a6189279
   
